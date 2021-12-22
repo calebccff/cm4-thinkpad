@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "CM4-Thinkpad")(type "KiCad")(uri "${KIPRJMOD}/CM4-Thinkpad.kicad_sym")(options "")(descr ""))
+  (lib (name "PDS1040")(type "KiCad")(uri "${KIPRJMOD}/PDS1040/PDS1040.kicad_sym")(options "")(descr ""))
+)
